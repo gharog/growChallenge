@@ -2,34 +2,94 @@
   "devices": [
 
   	{
-  		"id": "NOICV"
+  		"id": "NOICV",
+  		"vehicle_type": "bike",
+  		"location": {
+  			"latitude": 19.417285,
+  			"longitude": -99.157414
+  		},
+  		"battery_level": 42
   	},
 	{
-		"id": "0XDVF"
+		"id": "0XDVF",
+		"vehicle_type": "bike",
+		"location": {
+			"latitude": 19.417241,
+			"longitude": -99.157204
+		},
+		"battery_level": 8
 	},
 	{
-		"id": "QU8QU"
+		"id": "QU8QU",
+		"vehicle_type": "scooter",
+		"location": {
+			"latitude": 19.415885,
+			"longitude": -99.159221
+		},
+		"battery_level": 36
 	},
 	{
-		"id": "NA2IM"
+		"id": "NA2IM",
+		"vehicle_type": "bike",
+		"location": {
+			"latitude": 19.417463,
+			"longitude": -99.159672
+		},
+		"battery_level": 34
 	},
 	{
-		"id": "GMFJS"
+		"id": "GMFJS",
+		"vehicle_type": "scooter",
+		"location": {
+			"latitude": 19.415257,
+			"longitude": -99.157827
+		},
+		"battery_level": 4
 	},
 	{
-		"id": "E4VXY"
+		"id": "E4VXY",
+		"vehicle_type": "scooter",
+		"location": {
+			"latitude": 19.416370,
+			"longitude": -99.156722
+		},
+		"battery_level": 68
 	},
 	{
-		"id": "AOSTC"
+		"id": "AOSTC",
+		"vehicle_type": "scooter",
+		"location": {
+			"latitude": 19.417240,
+			"longitude": -99.160895
+		},
+		"battery_level": 61
 	},
 	{
-		"id": "O7VAU"
+		"id": "O7VAU",
+		"vehicle_type": "bike",
+		"location": {
+			"latitude": 19.418880,
+			"longitude": -99.155906
+		},
+		"battery_level": 72
 	},
 	{
-		"id": "KGXSN"
+		"id": "KGXSN",
+		"vehicle_type": "bike",
+		"location": {
+			"latitude": 19.414873,
+			"longitude": -99.160370
+		},
+		"battery_level": 52
 	},
 	{
-		"id": "KBHI9"
+		"id": "KBHI9",
+		"vehicle_type": "scooter",
+		"location": {
+			"latitude": 19.417149,
+			"longitude": -99.158009
+		},
+		"battery_level": 82
 	}
   ],
   "profile": {
