@@ -7,8 +7,7 @@
   		"location": {
   			"latitude": 19.417285,
   			"longitude": -99.157414
-  		},
-  		"battery_level": 42
+  		}
   	},
 	{
 		"id": "0XDVF",
@@ -16,8 +15,7 @@
 		"location": {
 			"latitude": 19.417241,
 			"longitude": -99.157204
-		},
-		"battery_level": 8
+		}
 	},
 	{
 		"id": "QU8QU",
@@ -34,8 +32,7 @@
 		"location": {
 			"latitude": 19.417463,
 			"longitude": -99.159672
-		},
-		"battery_level": 34
+		}
 	},
 	{
 		"id": "GMFJS",
@@ -70,8 +67,7 @@
 		"location": {
 			"latitude": 19.418880,
 			"longitude": -99.155906
-		},
-		"battery_level": 72
+		}
 	},
 	{
 		"id": "KGXSN",
@@ -79,8 +75,7 @@
 		"location": {
 			"latitude": 19.414873,
 			"longitude": -99.160370
-		},
-		"battery_level": 52
+		}
 	},
 	{
 		"id": "KBHI9",
