@@ -1,9 +1,36 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+  "devices": [
+
+  	{
+  		"id": "NOICV"
+  	},
+	{
+		"id": "0XDVF"
+	},
+	{
+		"id": "QU8QU"
+	},
+	{
+		"id": "NA2IM"
+	},
+	{
+		"id": "GMFJS"
+	},
+	{
+		"id": "E4VXY"
+	},
+	{
+		"id": "AOSTC"
+	},
+	{
+		"id": "O7VAU"
+	},
+	{
+		"id": "KGXSN"
+	},
+	{
+		"id": "KBHI9"
+	}
   ],
   "profile": {
     "name": "typicode"
